@@ -22,6 +22,7 @@ public class Main {
 			System.out.print(list.get(i)+"");
 			System.out.println();
 			//new1
+			//new2
 		}
 		
     }
